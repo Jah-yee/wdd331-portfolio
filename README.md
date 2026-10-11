@@ -21,3 +21,9 @@ every push to main.
 ## Tutorials
 
 - [Marker, Backdrop, and Selectors Tutorial](unit-2/marker-backdrop-selectors-tutorial/index.html)
+- [Lighting CSS](unit-2/css-bundling/index.html)
+
+
+## Build Tool
+
+I chose Lightning CSS because I learned about it and wanted to apply it to my current page.
